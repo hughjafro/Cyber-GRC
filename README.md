@@ -54,4 +54,4 @@ Financial Services · FinTech · Defense / Government Contracting · Technology
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · christopher.tolbert@email.com
+[LinkedIn](https://linkedin.com/in/christophertolbert) · cmtolbert1@gmail.com
