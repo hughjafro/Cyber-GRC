@@ -10,6 +10,7 @@ Meridian Financial Group, a mid-size financial services firm, is evaluating **Pa
 ### Detail
 
 **Client**: Meridian Financial Group — a 400-person regional financial services firm headquartered in Los Angeles. They offer investment advisory and wealth management services. Regulated under GLBA. Publicly traded, so SOX applies.
+
 **Vendor being evaluated**: PayStream Pro — a SaaS payroll platform. Cloud-hosted (AWS). Processes payroll for 400 employees. Handles direct deposit, W-2 generation, and HRIS integration via API.
 What you have access to as the assessor:
 
